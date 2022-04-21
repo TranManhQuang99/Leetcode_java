@@ -37,5 +37,4 @@ public class bubble_sort {
         int[] array = {1,2,3,4,5,7,6};
         bubble_sort(array);
     }
-
 }
